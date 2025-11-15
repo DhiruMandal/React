@@ -1,0 +1,17 @@
+import React from 'react'
+
+const App = () => {
+  return (
+    <>
+    <div>
+      <h1> hello guys  </h1>
+      <h2>hello dhiru</h2>
+    </div>
+    <div>
+      <h1>good morning guys </h1>
+    </div>
+    </>
+  )
+}
+
+export default App
